@@ -7,7 +7,7 @@
 * Nuestro primer do-file
 
 * Todo lo que vaya después del asterico es considerado una nota y el Stata no lo ejecuta
-sysuse auto, clear			// podemos escribir una nota en la misma línea de comando usando "//"
+sysuse auto, clear			 // podemos escribir una nota en la misma línea de comando usando "//"
 describe price weight		
 help regress
 
