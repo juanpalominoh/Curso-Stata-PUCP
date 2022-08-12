@@ -21,7 +21,7 @@ global dta_34 "$enaho/Sumaria"
 * El comando collapse
 *---------------------
 
-* Sumaria 2020
+* Sumaria 2021
 use "$dta_34/sumaria-2021.dta", clear
 gen ypc=inghog2d/(mieperho*12)
 gen gpc=gashog2d/(mieperho*12)
