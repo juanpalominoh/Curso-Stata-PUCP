@@ -1,0 +1,36 @@
+	(1)
+VARIABLES	Efectos Marginales
+	
+1.sexo	-8.19e-05***
+	(3.03e-05)
+edadmeses	-1.31e-05***
+	(4.63e-06)
+pesoalnacer	-1.03e-05
+	(9.67e-06)
+edadmadre	-2.29e-06**
+	(1.04e-06)
+1.educmadre	2.96e-06
+	(1.44e-05)
+2.educmadre	-3.85e-05*
+	(1.98e-05)
+0.lengmaterna	0.000186***
+	(7.19e-05)
+2.lengmaterna	5.17e-05
+	(0.000157)
+1.anemiamadre	0.000286***
+	(0.000100)
+1.area	6.14e-06
+	(1.35e-05)
+2.wealth_index	-9.70e-05**
+	(4.22e-05)
+3.wealth_index	-0.000182***
+	(6.76e-05)
+4.wealth_index	-0.000211***
+	(7.75e-05)
+5.wealth_index	-0.000239***
+	(8.73e-05)
+	
+Observations	18,435
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
+Sea ***, **, * los niveles de significancia al 1%, 5% y 10%	

@@ -1,0 +1,36 @@
+	(1)
+VARIABLES	Efectos Marginales
+	
+age	0.0471
+	(0.0397)
+1.male	-0.134***
+	(0.0355)
+1.educ	0.197**
+	(0.0959)
+2.educ	0.137
+	(0.0869)
+3.educ	0.0882
+	(0.0932)
+1.act	0.0515
+	(0.0707)
+lincome	0.00456
+	(0.00957)
+2.region	0.119***
+	(0.0395)
+3.region	0.0991*
+	(0.0571)
+1.urban	-0.105*
+	(0.0620)
+1.overweight	0.0707
+	(0.0644)
+1.ph_disab	0.196***
+	(0.0425)
+1.injury	0.0266
+	(0.0520)
+1.illnesses	0.209***
+	(0.0490)
+	
+Observations	595
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
+Sea ***, **, * los niveles de significancia al 1%, 5% y 10%	
