@@ -219,3 +219,12 @@ spmap pobreza2018 using "$works/perxy_dist.dta", ///
 graph export "$graphs/mapa_distrital_colors.png", as(png) replace 
 
 	
+* Solo Lima Metropolitana y Lima Provincias
+*---------------------------------------------
+keep if CCDD=="15"
+spmap pobreza2018 using "$works/perxy_dist.dta", ///
+ id(id) cln(5) fcolor(Heat) ///
+ ocolor(gs6 ..) osize(0.03 ..) ///
+ ndfcolor(gs14) ndocolor(gs6 ..) ndsize(0.03 ..) ndlabel("No data") ///
+ legend(pos(8) size(3.5) title("% Pobreza", size(medium))) legstyle(2)
+graph export "$graphs/mapa_LIMA_distrital.png", as(png) replace 
