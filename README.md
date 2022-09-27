@@ -51,3 +51,20 @@ Se trabaja con múltiples bases de datos como ENAHO, ENDES, entre otros.
 :file_folder: [Clase semana 18: Modelo Gravitacional Migración](https://github.com/juanpalominoh/Curso-Stata-PUCP/tree/main/18.%20Modelo%20Gravitacional%20Migraci%C3%B3n)
 
 ---
+
+### Referencias y enlaces 
+
+- Acock, A. C. (2014). A gentle introduction to Stata. Stata press.
+- Adkins, L., & Hill, R. (2011). Using Stata for principles of econometrics. Fourth Edition. Hoboken.
+- Angrist, J. D., & Pischke, J. S. (2008). Mostly harmless econometrics: An empiricist’s companion. Princeton university press.
+- Baum, C. F., & Christopher, F. (2006). An introduction to modern econometrics using Stata. Stata press.
+- Becketti, S. (2013). Introduction to time series using Stata. College Station, TX: Stata Press.
+- Cameron, A. C., & Trivedi, P. K. (2009). Microeconometrics Using Stata (Vol. 5). College Station, TX: Stata press.
+- Jann, B. (2014). A new command for plotting regression coefficients and other estimates.
+- Jenkins, S. P. (2008). Estimation and interpretation of measures of inequality, poverty, and social welfare using Stata. In North American Stata Users' Group Meetings 2006 (No. 16). Stata Users Group.
+- Kohler, U., & Kreuter, F. (2005). Data analysis using Stata. Stata press.
+- Long, J. S., (2009). The workflow of data analysis using Stata. College Station, TX: Stata Press.
+- Mitchell, M. N. (2008). A visual guide to Stata graphics. Stata Press.
+- Liu, X. (2015). Applied ordinal logistic regression using Stata: From single-level to multilevel modeling. Sage Publications.
+- Long, J. S., & Freese, J. (2006). Regression Models for Categorical Dependent Variables using Stata. Stata press.
+- Pisati, M. (2014). The A to Z of how to create thematic maps of Italy using spmap. In Italian Stata Users Group Meeting, November (pp. 13-14).
