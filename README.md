@@ -73,4 +73,4 @@ Para aquellos que inician y para los que alguna vez fuimos nuevos en Stata sirve
 
 ### Otros enlaces de interés
 
-+ [The Stata Guide]([https://www.lecy.info/r-for-public-policy](https://medium.com/the-stata-guide))
++ [The Stata Guide]([https://medium.com/the-stata-guide])
