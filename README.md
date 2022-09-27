@@ -2,15 +2,12 @@
 
 # Facultad de Ciencia Sociales - Departamento de Economía 
 
-
-
 Clases: **Juan Palomino** :mailbox_with_no_mail: juan.palominoh@pucp.pe
 
-En este repositorio podrán encontrar el material preparado para las clases, talleres y evaluaciones de los cursos de Actividades en Economía 2 y Laboratorio de Stata en la PUCP. 
+En este repositorio podrán encontrar el material preparado para las clases y evaluaciones de los cursos de Actividades en Economía 2 y Laboratorio de Stata en la PUCP. 
 Se trabaja con múltiples bases de datos como ENAHO, ENDES, entre otros.
 
 - Clonar este repositorio (necesitas crearte un usuario) :point_right: git@github.com:juanpalominoh/Curso-Stata-PUCP.git
-
 
 ### Clases 
 
@@ -50,13 +47,9 @@ Se trabaja con múltiples bases de datos como ENAHO, ENDES, entre otros.
 
 :file_folder: [Clase semana 18: Modelo Gravitacional Migración](https://github.com/juanpalominoh/Curso-Stata-PUCP/tree/main/18.%20Modelo%20Gravitacional%20Migraci%C3%B3n)
 
-
-
 ---
 
 ### Referencias y enlaces 
-
-**Clases:**
 
 - S&W: Stock, J. and Watson, M., Introduction to Econometrics, 3rd edition. (Disponible en Biblioteca SJ-UC `r fa(name = "link", fill = "#3f82ef")` [aquí](https://buscador.bibliotecas.uc.cl/permalink/56PUC_INST/1ujae15/alma990006269720203396))                     
 
