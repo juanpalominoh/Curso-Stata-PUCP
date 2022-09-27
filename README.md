@@ -65,9 +65,9 @@ Se trabaja con múltiples bases de datos como ENAHO, ENDES, entre otros.
 
 Para aquellos que inician y para los que alguna vez fuimos nuevos en Stata sirve bastante ver las preguntas/respuestas de otros programadores en las comunidades de Stata:
 
-+ [Stata Community](https://www.statalist.org/)
-+ [Stata Journal](https://www.stata-journal.com/)
-+ [Stack Overflow](https://stackoverflow.com/questions/tagged/stata)
++ :pushpin: [Stata Community](https://www.statalist.org/)
++ :pushpin: [Stata Journal](https://www.stata-journal.com/)
++ :pushpin: [Stack Overflow](https://stackoverflow.com/questions/tagged/stata)
 
 ---
 
