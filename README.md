@@ -56,6 +56,8 @@ Se trabaja con múltiples bases de datos como ENAHO, ENDES, entre otros.
 
 - [Cameron, A. C., & Trivedi, P. K. (2022). Microeconometrics Using Stata, Second Edition, Volumes I and II. College Station, TX: Stata press.](https://www.stata.com/bookstore/microeconometrics-stata/)
 - [Mitchell, M. N. (2022). A visual guide to Stata graphics. Fourth Edition. Stata Press.](https://www.stata.com/bookstore/visual-guide-to-stata-graphics/) 
+- Acock, A. C. (2014). [A gentle introduction to Stata]. Stata press.(https://www.stata.com/bookstore/gentle-introduction-to-stata/)
+
 - Acock, A. C. (2014). A gentle introduction to Stata. Stata press.
 - Adkins, L., & Hill, R. (2011). Using Stata for principles of econometrics. Fourth Edition. Hoboken.
 - Baum, C. F., & Christopher, F. (2006). An introduction to modern econometrics using Stata. Stata press.
