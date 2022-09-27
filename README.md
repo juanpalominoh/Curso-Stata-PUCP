@@ -67,10 +67,10 @@ Para aquellos que inician y para los que alguna vez fuimos nuevos en Stata sirve
 
 + [Stata Community](https://www.statalist.org/)
 + [Stata Journal](https://www.stata-journal.com/)
-+ [Stackoverflow](https://stackoverflow.com/questions/tagged/stata)
++ [Stack Overflow](https://stackoverflow.com/questions/tagged/stata)
 
 ---
 
 ### Otros enlaces de interés
 
-+ [The Stata Guide]([https://medium.com/the-stata-guide])
++ [The Stata Guide](https://medium.com/the-stata-guide)
