@@ -51,9 +51,3 @@ Se trabaja con múltiples bases de datos como ENAHO, ENDES, entre otros.
 :file_folder: [Clase semana 18: Modelo Gravitacional Migración](https://github.com/juanpalominoh/Curso-Stata-PUCP/tree/main/18.%20Modelo%20Gravitacional%20Migraci%C3%B3n)
 
 ---
-
-### Referencias y enlaces 
-
-- S&W: Stock, J. and Watson, M., Introduction to Econometrics, 3rd edition. (Disponible en Biblioteca SJ-UC `r fa(name = "link", fill = "#3f82ef")` [aquí](https://buscador.bibliotecas.uc.cl/permalink/56PUC_INST/1ujae15/alma990006269720203396))                     
-
-- A&P: Angrist, J. D., & Pischke, J. S. (2014). Mastering 'metrics: The path from cause to effect. Princeton University Press. (Disponible en Biblioteca SJ-UC `r fa(name = "link", fill = "#3f82ef")` [aquí](https://buscador.bibliotecas.uc.cl/permalink/56PUC_INST/bf8vpj/alma990006566900203396))
