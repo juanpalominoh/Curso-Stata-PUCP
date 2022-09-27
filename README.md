@@ -54,18 +54,23 @@ Se trabaja con múltiples bases de datos como ENAHO, ENDES, entre otros.
 
 ### Referencias y enlaces 
 
+- [Acock, A. C. (2018). A gentle introduction to Stata. Stata press.](https://www.stata.com/bookstore/gentle-introduction-to-stata/)
+- [Becketti, S. (2020). Introduction to time series using Stata. College Station, TX: Stata Press.](https://www.stata.com/bookstore/introduction-to-time-series-using-stata/)
 - [Cameron, A. C., & Trivedi, P. K. (2022). Microeconometrics Using Stata, Second Edition, Volumes I and II. College Station, TX: Stata press.](https://www.stata.com/bookstore/microeconometrics-stata/)
 - [Mitchell, M. N. (2022). A visual guide to Stata graphics. Fourth Edition. Stata Press.](https://www.stata.com/bookstore/visual-guide-to-stata-graphics/) 
-- Acock, A. C. (2014). [A gentle introduction to Stata]. Stata press.(https://www.stata.com/bookstore/gentle-introduction-to-stata/)
 
-- Acock, A. C. (2014). A gentle introduction to Stata. Stata press.
-- Adkins, L., & Hill, R. (2011). Using Stata for principles of econometrics. Fourth Edition. Hoboken.
-- Baum, C. F., & Christopher, F. (2006). An introduction to modern econometrics using Stata. Stata press.
-- Becketti, S. (2013). Introduction to time series using Stata. College Station, TX: Stata Press.
-- Jann, B. (2014). A new command for plotting regression coefficients and other estimates.
-- Jenkins, S. P. (2008). Estimation and interpretation of measures of inequality, poverty, and social welfare using Stata. In North American Stata Users' Group Meetings 2006 (No. 16). Stata Users Group.
-- Kohler, U., & Kreuter, F. (2005). Data analysis using Stata. Stata press.
-- Long, J. S., (2009). The workflow of data analysis using Stata. College Station, TX: Stata Press.
-- Liu, X. (2015). Applied ordinal logistic regression using Stata: From single-level to multilevel modeling. Sage Publications.
-- Long, J. S., & Freese, J. (2006). Regression Models for Categorical Dependent Variables using Stata. Stata press.
-- Pisati, M. (2014). The A to Z of how to create thematic maps of Italy using spmap. In Italian Stata Users Group Meeting, November (pp. 13-14).
+---
+
+### Comunidades y foros
+
+Para aquellos que inician y para los que alguna vez fuimos nuevos en Stata sirve bastante ver las preguntas/respuestas de otros programadores en las comunidades de Stata:
+
++ [Stata Community](https://www.statalist.org/)
++ [Stata Journal](https://www.stata-journal.com/)
++ [Stackoverflow](https://stackoverflow.com/questions/tagged/stata)
+
+---
+
+### Otros enlaces de interés
+
++ [The Stata Guide]([https://www.lecy.info/r-for-public-policy](https://medium.com/the-stata-guide))
