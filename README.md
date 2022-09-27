@@ -4,7 +4,7 @@
 
 
 
-Clases: **Juan Palomino** : mailbox_with_no_mail: juan.palominoh@pucp.pe
+Clases: **Juan Palomino** :mailbox_with_no_mail: juan.palominoh@pucp.pe
 
 En este repositorio podrán encontrar el material preparado para las clases, talleres y evaluaciones de los cursos de Actividades en Economía 2 y Laboratorio de Stata en la PUCP. 
 Se trabaja con múltiples bases de datos como ENAHO, ENDES, entre otros.
