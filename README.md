@@ -8,7 +8,7 @@ En este repositorio podrán encontrar el material preparado para las clases y ev
 Se trabaja con múltiples bases de datos como ENAHO, ENDES, entre otros.
 
 - Clonar este repositorio (necesitas crearte un usuario) :point_right: git@github.com:juanpalominoh/Curso-Stata-PUCP.git
-- Descargar el archivo .zip :point_right: [Link](/juanpalominoh/Curso-Stata-PUCP/archive/refs/heads/main.zip)
+- Descargar el archivo .zip :point_right: [Link](https://github.com/juanpalominoh/Curso-Stata-PUCP/archive/refs/heads/main.zip)
 
 
 
