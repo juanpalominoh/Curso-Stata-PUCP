@@ -9,6 +9,7 @@ Se trabaja con múltiples bases de datos como ENAHO, ENDES, entre otros.
 
 - Clonar este repositorio (necesitas crearte un usuario) :point_right: git@github.com:juanpalominoh/Curso-Stata-PUCP.git
 
+
 ### Clases 
 
 :file_folder: [Clase semana 1: Introducción a la programación](https://github.com/juanpalominoh/Curso-Stata-PUCP/tree/main/1.%20Introducci%C3%B3n%20a%20la%20Programaci%C3%B3n) 
