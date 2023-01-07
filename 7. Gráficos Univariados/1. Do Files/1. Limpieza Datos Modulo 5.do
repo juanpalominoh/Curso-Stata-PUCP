@@ -1,7 +1,7 @@
 
 global enaho  	"/Users/juanpalomino/Google Drive/ENAHO"
 global dta_5 	"$enaho/Modulo 500"
-global works 	"/Users/juanpalomino/Google Drive/Cursos/Laboratorio de Stata/Capitulo 4/Procesadas"
+global works 	"/Users/juanpalomino/Documents/GitHub/Curso-Stata-PUCP/7. Gráficos Univariados/3. Procesadas"
 
 
 *==========================================
@@ -136,6 +136,11 @@ recode p558a5 (5=0 "No afiliado") (0=1 "Afiliado"), gen(sis_pension)
 label var sis_pension "Afiliado a un Sistema de Pensiones"
 
 
+* Inclusión Financiera
+recode p558e1_6 (6=0 "Sin inclusión") (0=1 "Inclusión financiera"), gen(incl_financ)
+label var incl_financ "Inclusión financiera"
+
+
 * Empleo informal:
 recode ocupinf (1=1 "Informal") (2=0 "Formal"), gen(informal)
 label var informal "Empleo Informal"
@@ -172,7 +177,7 @@ recode dominio (1/3=1 "Costa") (4/6=2 "Sierra") (7=3 "Selva") (8=4 "Lima Metropo
 label var zona "Zona Geográfica"
 
 
-keep conglome-codperso pais dpto area zona edad mujer civil educ indigena jefe residente pea peao act_sec sector gruocu skill_ocu ingreso lnwage sis_pension informal fac500a
+keep conglome-codperso pais dpto area zona edad mujer civil educ indigena jefe residente pea peao act_sec sector gruocu skill_ocu ingreso lnwage sis_pension incl_financ informal fac500a
 
 order pais dpto zona area conglome-codperso mujer edad civil educ jefe residente indigena
 order fac500a, last 
